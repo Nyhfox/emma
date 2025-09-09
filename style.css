@@ -20,7 +20,7 @@ body{
 }
 
 .text {
-    font-size: 3em;
+    font-size: 2em;
     color: #FF0000;
     margin: 15px 0;
     margin-inline: auto;
@@ -102,4 +102,5 @@ button:nth-child(1) {
 button:nth-child(2){
     margin-right: -200px;
     background: #FF0000;
+
 }
